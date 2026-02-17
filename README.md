@@ -1,5 +1,3 @@
-# ai-mock-interview-simulator
-AI-powered web app that simulates real interview scenarios, generates role-based questions, evaluates answers, and provides personalized feedback for effective interview preparation.
 # AI Mock Interview Simulator
 
 An AI-powered web application that simulates real interview scenarios, generates role-based questions, evaluates responses, and provides personalized feedback to help users prepare effectively for job interviews.
