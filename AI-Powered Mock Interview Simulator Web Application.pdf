@@ -1,0 +1,815 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 2541
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+235.8999999999999488 785.1970866141732586 Td
+(Project Report) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 742.6774015748030706 Td
+(Title of Project:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 711.4962992125983874 Td
+(AI-Powered Mock Interview Simulator Web Application) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 667.559291338582625 Td
+(Name of the Innovator:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 636.3781889763779418 Td
+(Akshaya Bhandari) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 592.4411811023621794 Td
+(Start Date:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 561.2600787401574962 Td
+(11/02/26) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 517.3230708661417339 Td
+(End Date:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 486.1419685039369369 Td
+(18/02/26) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 442.2049606299212314 Td
+(Day 1: Empathise & Define) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 408.1892125984251152 Td
+(Step 1: Understanding the Need) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 362.8348818897637216 Td
+(Which problem am I trying to solve?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 331.6537795275589815 Td
+(Many students and job seekers lack access to realistic interview practice. They often don’t know) Tj
+T* (what questions to expect, how to structure answers, or how to improve after mock attempts.) Tj
+T* (Traditional preparation methods like reading questions or watching videos do not provide) Tj
+T* (personalized feedback. There is a need for an intelligent platform that simulates real interview) Tj
+T* (conditions and provides instant evaluation and improvement guidance.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 225.354566929133739 Td
+(Who is affected by this problem?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 194.1734645669290558 Td
+(1.College students preparing for campus placements) Tj
+T* (2.Fresh graduates applying for jobs) Tj
+T* (3.Professionals switching careers) Tj
+T* (4.Candidates applying to startups or MNCs) Tj
+T* (5.Individuals with interview anxiety or low confidence) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 87.8742519685038133 Td
+(How did I find out about this?) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 3502
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Interviews, Observation, Online Research, AI Tools) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 741.2600787401574962 Td
+(Step 2: Problem Statement) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 710.0789763779526993 Td
+(Job seekers need a realistic, personalized, and feedback-driven interview practice system that) Tj
+T* (helps them prepare effectively for different job roles and interview rounds. Existing preparation) Tj
+T* (methods lack real-time evaluation, structured simulation, and actionable improvement insights.) Tj
+T* (Therefore, an AI-powered mock interview platform is required to simulate interviews, evaluate) Tj
+T* (responses, and guide users toward better performance.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 603.7797637795274568 Td
+(Why is this problem important to solve?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 572.5986614173227736 Td
+(Interviews play a critical role in career opportunities, but many candidates fail due to lack of) Tj
+T* (preparation and feedback. A smart interview simulator can help users build confidence, improve) Tj
+T* (communication, identify weaknesses, and practice in a stress-free environment. This increases) Tj
+T* (their chances of success and reduces interview anxiety.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 481.8899999999999295 Td
+(Take-home task insights:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 450.7088976377952463 Td
+(1.Interview preparation needs personalization and feedback, not just practice questions.) Tj
+T* (2.Realistic simulation improves confidence and performance.) Tj
+T* (3.AI can effectively evaluate responses and suggest improvements.) Tj
+T* (4.Timed interview environments help users adapt to real pressure.) Tj
+T* (5.Technology can make professional interview preparation accessible to everyone.) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 344.4096850393700038 Td
+(Day 2: Ideate) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 310.3939370078740012 Td
+(Step 3: List at least 5 different solutions:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 279.2128346456692043 Td
+(1. Create an AI-powered web application that generates interview questions based on job role,) Tj
+T* (company type, and interview round, and provides feedback on answers.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 233.8585039370077538 Td
+(2. Develop a video-based mock interview simulator where users record responses and receive AI) Tj
+T* (analysis of confidence, communication, and body language.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 188.5041732283464171 Td
+(3. Build a mobile app that provides daily interview practice questions with performance tracking and) Tj
+T* (personalized improvement plans.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 143.1498425196849666 Td
+(4. Create an online interview preparation platform with expert-designed question banks, sample) Tj
+T* (answers, and peer mock interview sessions.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 97.7955118110235162 Td
+(5. Design a chatbot-based interview trainer that conducts real-time conversational interviews and) Tj
+T* (provides instant evaluation and tips.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 3356
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Step 4: My favourite solution:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 754.0159842519684616 Td
+(An AI-powered Mock Interview Simulator web application that allows users to simulate real) Tj
+T* (interview scenarios by selecting job role, company type, and interview round. The system) Tj
+T* (generates contextual questions, records user responses, evaluates answer quality using AI, and) Tj
+T* (provides personalized feedback and improvement suggestions in a timed interview environment.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 663.3073228346456744 Td
+(Step 5: Why am I choosing this solution?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 632.1262204724408775 Td
+(This solution provides a realistic and personalized interview preparation experience. Unlike) Tj
+T* (traditional preparation methods, it offers real-time feedback and performance analysis. It is) Tj
+T* (accessible, scalable, and adaptable to different job roles and difficulty levels. The AI-driven) Tj
+T* (evaluation helps users understand their strengths and weaknesses clearly, making interview) Tj
+T* (preparation more effective and confidence-building.) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 525.827007874015635 Td
+(Day 3: Prototype & Test) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 491.8112598425196325 Td
+(Step 6: What will my solution look like?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 460.6301574803148924 Td
+(The prototype is a web-based AI Mock Interview Simulator that allows users to practice interviews) Tj
+T* (in a structured environment. Users enter their target job role, company type, interview round, and) Tj
+T* (difficulty level. The system generates AI-based interview questions and provides a timed response) Tj
+T* (interface. After answering, the AI evaluates the response and provides feedback, performance) Tj
+T* (scores, and improvement suggestions. The prototype includes interview setup, question display,) Tj
+T* (timer, answer input, and feedback dashboard.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 338.7403937007873083 Td
+(What AI tools will I need?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 307.559291338582625 Td
+(1.AI question generation) Tj
+T* (2.Natural language response evaluation) Tj
+T* (3.Feedback and improvement suggestion system) Tj
+T* (4.Prompt engineering for contextual interviews) Tj
+T* (5.Performance scoring mechanism) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 201.2600787401573825 Td
+(Selected AI tools:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 170.0789763779526993 Td
+(1. Tool 1: React.js — frontend user interface) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 140.3151968503935905 Td
+(2. Tool 2: Tailwind CSS — styling and layout) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 110.5514173228345953 Td
+(3. Tool 3: Google Gemini API — AI question generation and evaluation) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 80.7876377952754865 Td
+(4. Tool 4: JavaScript Timer Functions — timed interview simulation) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 2843
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(5. Tool 5: Browser Local Storage / Database — storing responses and results) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 741.2600787401574962 Td
+(Step 7: Test - Getting Feedback) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 695.9057480314960458 Td
+(Who did I share my solution with?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 664.7246456692912489 Td
+(College students preparing for placements, Friends and classmates, Self-testing by developer) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 620.7876377952754865 Td
+(What works well:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 589.6065354330708033 Td
+(1.AI generates relevant interview questions based on inputs) Tj
+T* (2.Timer creates realistic interview pressure) Tj
+T* (3.Feedback is clear and helpful) Tj
+T* (4.Interface is simple and user-friendly) Tj
+T* (5.Personalized suggestions improve learning) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 483.3073228346456176 Td
+(What needs improvement:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 452.1262204724408775 Td
+(1.Add voice or video response recording) Tj
+T* (2.Improve AI evaluation accuracy for technical answers) Tj
+T* (3.Add more interview rounds and industry types) Tj
+T* (4.Enhance UI animations and user experience) Tj
+T* (5.Provide detailed performance analytics) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 345.8270078740156919 Td
+(Day 4: Showcase) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 311.8112598425195756 Td
+(Step 8: Final Project Title:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 280.6301574803148924 Td
+(AI-Powered Mock Interview Simulator for Personalized Interview Preparation) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 236.69314960629913 Td
+(1-Minute Pitch Summary:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 205.5120472440944468 Td
+(The AI-Powered Mock Interview Simulator is an intelligent web application designed to help job) Tj
+T* (seekers practice interviews in a realistic environment. Users can customize the interview based on) Tj
+T* (job role, company type, and difficulty level. The system generates contextual questions using AI,) Tj
+T* (evaluates responses, and provides personalized feedback and improvement suggestions. With) Tj
+T* (timed responses and performance insights, the platform helps users build confidence, improve) Tj
+T* (communication skills, and prepare effectively for real interviews.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 83.6222834645668627 Td
+(Step 9: Reflections) Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 1282
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(What did I enjoy the most?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 754.0159842519684616 Td
+(I enjoyed designing the interview simulation process and integrating AI to generate questions and) Tj
+T* (feedback. It was exciting to create a system that helps users improve their skills and gain) Tj
+T* (confidence. Building the interface and seeing the complete workflow function like a real interview) Tj
+T* (was very satisfying.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 663.3073228346456744 Td
+(What was my biggest challenge?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 632.1262204724408775 Td
+(The biggest challenge was designing accurate AI prompts for generating meaningful interview) Tj
+T* (questions and evaluating responses effectively. Ensuring realistic interview flow and implementing) Tj
+T* (timed interaction also required careful planning and testing.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 557.0081102362204319 Td
+(Project Link:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 525.827007874015635 Td
+(https://ace-the-qa.lovable.app/) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R ]
+/Count 5
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+25 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+26 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 13 0 R
+/F2 14 0 R
+/F3 15 0 R
+/F4 16 0 R
+/F5 17 0 R
+/F6 18 0 R
+/F7 19 0 R
+/F8 20 0 R
+/F9 21 0 R
+/F10 22 0 R
+/F11 23 0 R
+/F12 24 0 R
+/F13 25 0 R
+/F14 26 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+27 0 obj
+<<
+/Producer (jsPDF 4.0.0)
+/CreationDate (D:20260217204803+05'30')
+>>
+endobj
+28 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 29
+0000000000 65535 f 
+0000014489 00000 n 
+0000016336 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000002745 00000 n 
+0000002882 00000 n 
+0000006436 00000 n 
+0000006573 00000 n 
+0000009981 00000 n 
+0000010119 00000 n 
+0000013015 00000 n 
+0000013154 00000 n 
+0000014571 00000 n 
+0000014697 00000 n 
+0000014828 00000 n 
+0000014962 00000 n 
+0000015100 00000 n 
+0000015224 00000 n 
+0000015353 00000 n 
+0000015485 00000 n 
+0000015621 00000 n 
+0000015749 00000 n 
+0000015876 00000 n 
+0000016005 00000 n 
+0000016138 00000 n 
+0000016240 00000 n 
+0000016589 00000 n 
+0000016675 00000 n 
+trailer
+<<
+/Size 29
+/Root 28 0 R
+/Info 27 0 R
+/ID [ <59AF2C7E4ED919241316CD8F2ABE3E03> <59AF2C7E4ED919241316CD8F2ABE3E03> ]
+>>
+startxref
+16779
+%%EOF
